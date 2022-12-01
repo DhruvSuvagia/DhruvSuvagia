@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvSuvagia
 - 👀 Junior Network Engineer
-- 🌱 I’m currently focusing on Networking
+- 🌱 Networking enthuciastic
 - 📫 dhruvsuvagia22@gmail.com
 
 <!---
