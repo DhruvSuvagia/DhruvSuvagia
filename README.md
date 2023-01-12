@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhruvSuvagia
 - 👀 Junior Network Engineer
 - 🌱 Networking enthuciastic
-- 📫 dhruvsuvagia22@gmail.com
+- 📫 Reach me at dhruvsuvagia22@gmail.com
 
 <!---
 DhruvSuvagia/DhruvSuvagia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
